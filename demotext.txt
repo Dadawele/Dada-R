@@ -1,10 +1,1 @@
-git add demotext.txt
 
-
-git commit -m "this is the first line"
-[F
-
-
-
-
-git commit
